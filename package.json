@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
-    "vue": "^2.6.11"
+    "ol": "^6.2.1",
+    "vue": "^2.6.11",
+    "vuelayers": "^0.11.21"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.2.0",
